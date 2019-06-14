@@ -1,11 +1,11 @@
 # dataset-poc
 Hosting all datasets collected from various sources
 
-## 1.IMS (NASA bearing dataset)
+## 1.NASA bearing dataset
 
 Retrieved from [here](http://data-acoustics.com/measurements/bearing-faults/bearing-4/)
 
-## Measurement Date:
+### Measurement Date:
 N/A
 
 ### Description:
@@ -28,7 +28,7 @@ Measured by: 	J. Lee, H. Qiu, G. Yu, J. Lin, and Rexnord Technical Services (200
 
 Retrieved from [here](http://data-acoustics.com/measurements/bearing-faults/bearing-5/)
 
-## Measurement Date:
+### Measurement Date:
 N/A
 
 ### Description
@@ -49,7 +49,7 @@ No Publication Link is provided
 
 ## 3.Inner and Outer Race Bearing Fault Vibration Measurements
 
-## Measurement Date:
+### Measurement Date:
 21/11/12
 
 Retrieved from [here](http://data-acoustics.com/measurements/bearing-faults/bearing-1/)
